@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**autlady/autlady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Всем привет! 👋
+## Я Григорьева Юлия, iOS разработчик из Санкт - Петербурга
+![swift](https://user-images.githubusercontent.com/98653699/177409480-b2692e1e-f607-41a9-ad86-75ddee2877f6.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
