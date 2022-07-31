@@ -1,5 +1,5 @@
 ### Всем привет! 👋
-## Я Григорьева Юлия, Junior iOS - разработчик
+## Я Григорьева Юлия, iOS - разработчик
 
 ![swift](https://user-images.githubusercontent.com/98653699/177410299-8d0ab849-f500-45b5-bc2b-286b0c4b6c16.jpg)
 
@@ -15,7 +15,7 @@
 * GIT (Terminal, Xcode, GitHub)
 * Networking (parsing JSON)
 * Cocoapods
-* MVC, MVVM, SOLID
+* MVC, SOLID
 
 <img width="500" alt="Снимок экрана 2022-07-06 в 16 07 15" src="https://user-images.githubusercontent.com/98653699/177557512-5bee9bbe-e1b6-42ba-93d7-dd1787c70fa3.png">
 
