@@ -12,8 +12,6 @@
 * Препроцессор SCSS
 * BEM naming
 * Основы JavaScript, jQuery, PHP
-  
-![diploma-webcademy 2](https://github.com/autlady/autlady/assets/98653699/5ea85c00-c4ea-43b6-8934-25c917d37295)
 
 ## Контакты:
 
