@@ -8,7 +8,7 @@
 * Университет НТИ 2035 (диплом iOS - разработчика, Нетология) - 2022 г;
 * Курс HTML5 & CSS3 Верстка сайтов - 2023 г.;
 * Курс Продвинутая верстка (Git, GitHub, Gulp, Pug, SCSS, BEM naming) - 2023 г
-* Курс RSSchool JS / FE Pre-school 2024/G2 - 2024 г.
+* Курс RSSchool JS / FE Pre-school 2024/G2 (JavaScript) - 2024 г.
 
 ## Навыки:
 * Знание HTML5, CSS3, верстка сайтов
